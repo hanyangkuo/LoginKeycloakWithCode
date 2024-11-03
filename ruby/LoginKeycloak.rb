@@ -13,7 +13,7 @@ username.send_keys "test"
 password.send_keys "test"
 signInButton.click
 
-sleep(1000)
+sleep(1)
 driver.manage.all_cookies.each do |cookie|
   puts cookie
 end
