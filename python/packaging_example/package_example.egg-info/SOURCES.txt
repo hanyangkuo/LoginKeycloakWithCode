@@ -1,0 +1,10 @@
+README.md
+setup.py
+my_library/__init__.py
+my_library/module1.py
+my_library/module2.py
+package_example.egg-info/PKG-INFO
+package_example.egg-info/SOURCES.txt
+package_example.egg-info/dependency_links.txt
+package_example.egg-info/requires.txt
+package_example.egg-info/top_level.txt
